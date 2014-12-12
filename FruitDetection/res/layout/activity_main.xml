@@ -9,8 +9,6 @@
         android:id="@+id/fruit_detect_surface_view"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:visibility="gone"
-        opencv.show_fps="true"
-        opencv.camera_id="any"/>
+        android:visibility="gone"/>
 
 </LinearLayout>
